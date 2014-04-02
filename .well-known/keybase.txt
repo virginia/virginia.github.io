@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/virginia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alertbutnotalarmed.com
+  * I am virginia (https://keybase.io/virginia) on keybase.
+  * I have a public key with fingerprint 4C75 9F08 397F 80EA 01AF  C5E3 8E22 6856 6C18 8718
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4c759f08397f80ea01afc5e38e2268566c188718",
+            "host": "keybase.io",
+            "key_id": "8e2268566c188718",
+            "uid": "05bca1e074bbd4b99b01764b9f663500",
+            "username": "virginia"
+        },
+        "service": {
+            "hostname": "alertbutnotalarmed.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396446144,
+    "expire_in": 157680000,
+    "prev": "0af6e2b54170fc9edb8de4e60242b4bbf4346f466cbfcc7ca6d3fe9946247423",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMIBAnicbZFtTBRHGMfvVCR3hNQEch8qfnC1tJTruS+zbxe1FJMCVqGpCEFNz53d
+2btFbvfc3bsruSBpJeElKSqmTf1gCVjShjRtibUkSAxSOBKMETG26GlqQiLEaDEk
+pGkIyCzBb86XmfnP7/k/8zzPWO5ml9c95C79/OZAS7/71shy3HVkb95IioCG0kgE
+U8QptL6pmh5GZszUdJsIEkDmWVElBUbkVYFEEklJqswiRkA0zQksx8mUIPCUQPiJ
+iGE5EdgGShYKaAbW8CWkKVh9Ax9ffyBZKEsUInkAoQKgKEKS4jl8UDmOYUnSAS1k
+6lIUYTqhmWFN1ySiyU9gNaHJWE2tp94gpAZk2jBu64YtNUhmFCkB2Yhil5hp2IZs
+NGAmYtuxoGNhN8acmCSCoQ23ENR0BXcABySQaWmGTgQpTMq25thTjMgBwFEA+An0
+RUwzUUhzCJbnBBIvJw1KOGVJKodoyAKKJ1VZRAoUFAQQR9KAhrhUFTCAUwHuB1Rl
+mZclTmFUJIqAowEPaAbnt9Bp3SCCDP6mFMaWlhbWJTtuIqJpdOTEFpfb69qatcmZ
+ocvr2fZ6soGB7BXfeKZxf4082dsh1P14fCq7jcoagjvKBoc/TpzpilAfdH//stt3
+cuK92bt7Up9eG8tvy7Q//f/LKpNcWe1pqa9O+1oX//u25M5FX0lysKj856T1d2j+
+wWKye2Iu/4ZaXJVZza0PHMy692sht7D9/PtlP7zw/+Ere7e4Qi3vXOjdt/Onmcxy
+QWD3R+nhcy2/zX9T2fx88MnD2PTK0vXvKu972Nuf1RSkiQtvw+p/Hh961lw1lXO2
+5/ddn5SqVmt0rmjmw4gI8vu8Hb+Q42nrWGrp63cm/+w7WlPY3vlvRYT25DzKeyvU
+OSVMf1W3PHzpr1fZXbWjtaFS8mpg9kC/J37l8OXiuTWgmxcZ
+=QO8o
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/virginia
+
+==================================================================
