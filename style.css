@@ -2,7 +2,7 @@ body {
   font-family: "Monaco", "Courier", monospace;
   font-size: 12px;
   line-height: 19px;
-  color: #663399;
+  color: #222;
   padding: 20px 50px;
 }
 
@@ -29,7 +29,6 @@ h2:before {
 
 a {
   color: red;
-  color: #663399;
 }
 
 .i {
