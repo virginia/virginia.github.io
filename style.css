@@ -45,6 +45,15 @@ a {
   margin: 0 auto;
 }
 
+.mklt {
+  background: red;
+  text-decoration: none;
+  color: #fff;
+  padding: 1px 8px;
+  border-radius: 5px;
+  font-family: "Helvetica", sans-serif;
+}
+
 @media (max-width: 480px) {
   body {
     padding: 10px 30px 30px 30px;
