@@ -54,6 +54,38 @@ a {
   font-family: "Helvetica", sans-serif;
 }
 
+.reading-list {
+  padding-left: 0;
+  margin: 0;
+}
+
+.reading-list dt {
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+.reading-list dd {
+  list-style: none;
+  margin-left: 0;
+  margin-bottom: 15px;
+}
+
+.reading-list dd:before {
+  content: '* * *';
+  display: block;
+  text-align: center;
+  color: #aaa;
+  margin: 20px;
+}
+
+.reading-list dt + dd:before {
+  content: '';
+}
+
+.reading-list time {
+  color: #aaa;
+  display: block;
+}
+
 @media (max-width: 480px) {
   body {
     padding: 10px 30px 30px 30px;
